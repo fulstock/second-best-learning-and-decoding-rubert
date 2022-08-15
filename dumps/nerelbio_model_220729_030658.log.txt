@@ -1,0 +1,2 @@
+2022-07-30 11:37:17,889 - Nested Mention Test - INFO - test micro precision: 74.64%, micro recall: 74.31%, micro F1: 74.48%
+2022-07-30 11:37:17,890 - Nested Mention Test - INFO - test macro precision: 55.90%, macro recall: 50.20%, macro F1: 52.90%
